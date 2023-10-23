@@ -13,8 +13,8 @@
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 ### Ответ 2 
-![Скрин 1](https://github.com/Loginochka/cicd-8.02.hw/blob/main/img/J2s1.jpg)
-
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/main/2.png)
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/main/3.png)
 ------
 ### Задание 3 и Задание 4
 1. Установите на машину Nexus.
