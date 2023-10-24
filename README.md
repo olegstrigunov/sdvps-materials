@@ -6,15 +6,17 @@
 3. Используя свой аккаунт на GitHub, сделайте себе форк репозитория. В этом же репозитории находится дополнительный материал для выполнения ДЗ.
 4. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 ### Ответ 1 
-![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/main/1.png)
-![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/main/Снимок%20экрана%201.png)
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/pip1.png)
+![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/main/1.png)
+![Скрин 3](https://github.com/olegstrigunov/sdvps-materials/blob/main/Снимок%20экрана%201.png)
 -------
 ### Задание 2
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 ### Ответ 2 
-![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/main/2.png)
-![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/main/3.png)
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/pip2.png)
+![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/main/2.png)
+![Скрин 3](https://github.com/olegstrigunov/sdvps-materials/blob/main/3.png)
 ------
 ### Задание 3 и Задание 4
 1. Установите на машину Nexus.
@@ -23,8 +25,9 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
 5*. Придумайте способ версионировать приложение, чтобы каждый следующий запуск сборки присваивал имени файла новую версию. Таким образом, в репозитории Nexus будет храниться история релизов.
 ### Ответе 3 и 4 
-![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/3.png)
-![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/4.png)
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/pip3.png)
+![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/master/3.png)
+![Скрин 3](https://github.com/olegstrigunov/sdvps-materials/blob/master/4.png)
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
 
