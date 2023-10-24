@@ -23,8 +23,8 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
 5*. Придумайте способ версионировать приложение, чтобы каждый следующий запуск сборки присваивал имени файла новую версию. Таким образом, в репозитории Nexus будет храниться история релизов.
 ### Ответе 3 и 4 
-![Скрин 1](https://github.com/Loginochka/cicd-8.02.hw/blob/main/img/J3s1.jpg)
-
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/3.png)
+![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/4.png)
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
 
