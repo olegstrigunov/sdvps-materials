@@ -9,6 +9,7 @@
 ![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/pip1.png)
 ![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/main/1.png)
 ![Скрин 3](https://github.com/olegstrigunov/sdvps-materials/blob/main/Снимок%20экрана%201.png)
+
 -------
 ### Задание 2
 1. Создайте новый проект pipeline.
@@ -17,6 +18,7 @@
 ![Скрин 1](https://github.com/olegstrigunov/sdvps-materials/blob/master/pip2.png)
 ![Скрин 2](https://github.com/olegstrigunov/sdvps-materials/blob/main/2.png)
 ![Скрин 3](https://github.com/olegstrigunov/sdvps-materials/blob/main/3.png)
+
 ------
 ### Задание 3 и Задание 4
 1. Установите на машину Nexus.
